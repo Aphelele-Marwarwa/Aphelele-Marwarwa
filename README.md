@@ -1,8 +1,9 @@
+<div style="background-color: white; padding: 20px;">
 <h1 align="left">Hello World!!</h1>
 
 ###
 
-<p align="left">Hey there! I'm Aphelele Marwarwa, a passionate individual currently on a journey of learning and growth in the exciting world of technology ! 💻</p>
+<p align="left">I'm Aphelele Marwarwa, a passionate individual currently on a journey of learning and growth in the exciting world of technology ! 💻</p>
 
 ###
 
@@ -47,3 +48,4 @@
 </div>
 
 ###
+</div>
