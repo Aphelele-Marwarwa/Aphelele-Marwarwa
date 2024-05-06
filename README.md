@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm currently studying at Nelson Mandela University (Dip in Information Technology (Software development), honing my skills in various areas such as bartending, communication, and programming.</p>
+<p align="left">I'm currently studying at Nelson Mandela University <b>(Dip in Information Technology (Software development))</b>, honing my skills in various areas such as bartending, communication, and programming.</p>
 
 ###
 
