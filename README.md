@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm currently studying at Nelson Mandela University <b>(Dip in Information Technology (Software development))</b>, honing my skills in various areas such as bartending, communication, and programming.</p>
+<p align="left">I’ve recently graduated with a Diploma in Information Technology (Software Development) from Nelson Mandela University. Throughout my studies, I’ve gained valuable skills not only in programming but also in areas like bartending and communication, which have helped me grow both personally and professionally.</p>
 
 ###
 
