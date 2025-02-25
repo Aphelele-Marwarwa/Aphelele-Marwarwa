@@ -67,6 +67,6 @@
 
 ###
 
-<p align="left">I am committed to continuous learning and growth in the tech industry. My goal is to become a well-rounded software developer and data analyst, contributing to innovative projects that solve real-world problems. I’m particularly interested in working on e-commerce platforms, data-driven applications, and user-centric software solutions.</p>
+<p align="left">I am committed to continuous learning and growth in the tech industry. My goal is to become a well-rounded software developer , contributing to innovative projects that solve real-world problems. I’m particularly interested in working on e-commerce platforms, data-driven applications, and user-centric software solutions.</p>
 
 ###
