@@ -1,9 +1,8 @@
-
 <h1 align="left">Hello World!!</h1>
 
 ###
 
-<p align="left">I'm Aphelele Marwarwa, a passionate individual currently on a journey of learning and growth in the exciting world of technology ! 💻</p>
+<p align="left">I'm Aphelele Marwarwa, a passionate and driven individual currently pursuing my Advanced Diploma in Information Technology. I thrive in the world of technology, constantly learning and growing to become a skilled software developer and data enthusiast. 💻</p>
 
 ###
 
@@ -11,19 +10,27 @@
 
 ###
 
-<p align="left">I’ve recently graduated with a Diploma in Information Technology (Software Development) from Nelson Mandela University. Throughout my studies, I’ve gained valuable skills not only in programming but also in areas like bartending and communication, which have helped me grow both personally and professionally.</p>
+<p align="left">I hold a Diploma in Information Technology (Software Development) from Nelson Mandela University and am currently advancing my knowledge with an Advanced Diploma in Information Technology. My academic journey has equipped me with a strong foundation in software development, system analysis, and database design, and I’m eager to apply these skills to real-world challenges.</p>
 
 ###
 
-<h2 align="left">Work Experience:</h2>
+<h2 align="left">Interests and Skills:</h2>
 
 ###
 
-<p align="left">Bartender @BeerShack🍹</p>
+<p align="left">I am deeply passionate about:</p>
+<ul align="left">
+  <li>Full-Stack Development: Building end-to-end applications, particularly with C# and .NET ecosystems.</li>
+  <li>Database Design: Creating efficient and scalable database systems.</li>
+  <li>System Analysis: Understanding and improving complex systems.</li>
+  <li>UX/UI Design: Crafting user-friendly and visually appealing interfaces.</li>
+  <li>E-Commerce Applications: Developing robust and secure e-commerce solutions.</li>
+ <li>Data Analysis: Uncovering insights from data to drive decision-making.</li>
+</ul>
 
 ###
 
-<h2 align="left">Tech stack:</h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
@@ -54,5 +61,12 @@
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
+<h2 align="left">Goals:</h2>
+
+###
+
+<p align="left">I am committed to continuous learning and growth in the tech industry. My goal is to become a well-rounded software developer and data analyst, contributing to innovative projects that solve real-world problems. I’m particularly interested in working on e-commerce platforms, data-driven applications, and user-centric software solutions.</p>
 
 ###
