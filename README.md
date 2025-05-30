@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I hold a Diploma in Information Technology (Software Development) from Nelson Mandela University and am currently advancing my knowledge with an Advanced Diploma in Information Technology. My academic journey has equipped me with a strong foundation in software development, system analysis, and database design, and I’m eager to apply these skills to real-world challenges.</p>
+<p align="left">I hold a Diploma in Information Technology (Software Development) from Nelson Mandela University and am currently advancing my knowledge with an Advanced Diploma in Information Technology. My academic journey has equipped me with a strong foundation in software development, system analysis,data analysis, and database design, and I’m eager to apply these skills to real-world challenges.</p>
 
 ###
 
