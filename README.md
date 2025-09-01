@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I hold a Diploma in Information Technology (Software Development) from Nelson Mandela University and am currently advancing my knowledge with an Advanced Diploma in Information Technology. My academic journey has equipped me with a strong foundation in software development, system analysis,data analysis, and database design, and I’m eager to apply these skills to real-world challenges.</p>
+<p align="left">I hold a Diploma in Information Technology (Software Development) from Nelson Mandela University and am currently advancing my knowledge with an Advanced Diploma in Information Technology. My academic journey has equipped me with a strong foundation in software development, system analysis, data analysis, database design, and operating systems. I’m eager to apply these skills to real-world challenges.</p>
 
 ###
 
@@ -25,7 +25,12 @@
   <li>System Analysis: Understanding and improving complex systems.</li>
   <li>UX/UI Design: Crafting user-friendly and visually appealing interfaces.</li>
   <li>E-Commerce Applications: Developing robust and secure e-commerce solutions.</li>
- <li>Data Analysis: Uncovering insights from data to drive decision-making.</li>
+  <li>Data Analysis: Uncovering insights from data to drive decision-making.</li>
+  <li>Operating Systems: Exploring Windows, Linux (Ubuntu & Kali), and their internals.</li>
+  <li>Information Security: Ensuring confidentiality, integrity, and availability of systems and data.</li>
+  <li>Application Security: Building secure applications that follow best practices against vulnerabilities.</li>
+  <li>Advanced Development Software: Working with modern tools and frameworks for efficient software delivery.</li>
+  <li>Applied Project: Applying my skills in real-world scenarios through hands-on project development.</li>
 </ul>
 
 ###
@@ -60,13 +65,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
+ <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="kali linux logo" />
 </div>
 
 ###
+
 <h2 align="left">Goals:</h2>
 
 ###
 
-<p align="left">I am committed to continuous learning and growth in the tech industry. My goal is to become a well-rounded software developer , contributing to innovative projects that solve real-world problems. I’m particularly interested in working on e-commerce platforms, data-driven applications, and user-centric software solutions.</p>
+<p align="left">I am committed to continuous learning and growth in the tech industry. My goal is to become a well-rounded software developer, contributing to innovative projects that solve real-world problems. I’m particularly interested in working on e-commerce platforms, data-driven applications, user-centric software solutions, and secure systems.</p>
 
 ###
