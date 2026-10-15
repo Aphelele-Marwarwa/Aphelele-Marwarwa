@@ -81,6 +81,25 @@
   <img src="https://img.shields.io/badge/-SpiderFoot-333333?style=flat" alt="spiderfoot" />
 </div>
 
+<h2 align="left">Projects & Documentation</h2>
+
+<p align="left">
+  <b>Enterprise IT & Cybersecurity Platform Overview</b> — A structured reference guide researched
+  and documented covering 12 enterprise platforms across security, operations, identity, data
+  protection and resilience, explaining how they work together across the prevent, detect &
+  respond, control access, and recover lifecycle. Includes an architecture evaluation framework
+  (coverage, integration, automation, visibility, resilience) and key security metrics (MTTD, MTTR,
+  privileged access coverage, backup recovery success rate).
+</p>
+
+<ul align="left">
+  <li><b>Data & Security Analytics:</b> Splunk (SIEM / SPL / SOAR)</li>
+  <li><b>Cybersecurity & Threat Protection:</b> Fortinet (NGFW / SD-WAN / ZTNA), Trellix (XDR), Mimecast (email security), SentinelOne (AI EDR)</li>
+  <li><b>Identity & Data Protection:</b> Delinea (PAM), Veeam (backup & DR), Wallix (PAM & session management), Commvault (enterprise backup & data management)</li>
+  <li><b>IT Operations & Observability:</b> SolarWinds (infrastructure monitoring), Elastic (ELK stack / SIEM), Brocade/Broadcom (SAN & Ethernet fabric switching)</li>
+  <li><b>Training & Certification Resources:</b> Nokia Service Routing Certification (SRC) program, IBM Certified Analyst/Deployment Professional — QRadar SIEM</li>
+</ul>
+
 <h2 align="left">Goals</h2>
 
 <p align="left">
