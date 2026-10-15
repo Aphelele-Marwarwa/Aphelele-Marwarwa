@@ -25,6 +25,7 @@
   <li><b>Database Design & BI Concepts:</b> Designing efficient, scalable databases and working with SQL-driven insights.</li>
   <li><b>System Analysis:</b> Understanding, designing, and improving complex systems.</li>
   <li><b>Application & Information Security:</b> Applying secure coding practices and cybersecurity principles.</li>
+  <li><b>Penetration Testing & Offensive Security:</b> Reconnaissance, vulnerability scanning, exploitation, wireless security testing, and traffic/data analysis using tools such as Nmap, Metasploit, Burp Suite, Greenbone/OpenVAS, OWASP ZAP, Aircrack-ng, Wireshark, Crunch, and Steghide.</li>
   <li><b>UX/UI Awareness:</b> Creating user-friendly and accessible interfaces.</li>
   <li><b>Data Analysis:</b> Working with structured data to support informed decision-making.</li>
   <li><b>Operating Systems:</b> Hands-on experience with Windows and Linux environments (Ubuntu & Kali).</li>
@@ -54,9 +55,30 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="kali linux" />
+</div>
+
+<h2 align="left">Security Tools</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap&logoColor=white" alt="nmap" />
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" alt="metasploit" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="burp suite" />
+  <img src="https://img.shields.io/badge/-OpenVAS%2FGreenbone-69B345?style=flat" alt="openvas" />
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white" alt="owasp zap" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="wireshark" />
+  <img src="https://img.shields.io/badge/-Aircrack--ng-333333?style=flat" alt="aircrack-ng" />
+  <img src="https://img.shields.io/badge/-Crunch-333333?style=flat" alt="crunch" />
+  <img src="https://img.shields.io/badge/-tcpdump-333333?style=flat" alt="tcpdump" />
+  <img src="https://img.shields.io/badge/-Steghide-333333?style=flat" alt="steghide" />
+  <img src="https://img.shields.io/badge/-Recon--ng-333333?style=flat" alt="recon-ng" />
+  <img src="https://img.shields.io/badge/-SpiderFoot-333333?style=flat" alt="spiderfoot" />
 </div>
 
 <h2 align="left">Goals</h2>
