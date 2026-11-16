@@ -10,7 +10,7 @@
 
 <p align="left">
   I hold a Diploma in Information Technology (Software Development) and an Advanced Diploma in
-  Information Technology from Nelson Mandela University. I am currently pursuing a Postgraduate
+  Information Technology from Nelson Mandela University. I have also a Postgraduate
   Diploma in Cybersecurity, further strengthening my knowledge in secure systems, application
   security, and modern IT challenges. My academic journey has equipped me with a solid foundation
   in software development, system analysis, data analysis, database design, and operating systems.
